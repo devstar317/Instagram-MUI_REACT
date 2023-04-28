@@ -1,4 +1,4 @@
-# Instagram MERN
+# Instagram using Mysql + NodeJS + ReactJS
 Full-Stack Instgram Clone using MERN Stack and Socket.io
 
 [Visit Now](https://instagramernstack.herokuapp.com/) 🚀
